@@ -107,11 +107,12 @@ nav a{
 
 .sec2 img{
     height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
 
 .scheda{
-    
     display: inline-block;
     height: 20em;
     width: 16em;
