@@ -1,0 +1,193 @@
+/* BODY */
+body{
+    background-color:#e9edee ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    border: 0;
+    color: #267586;
+    font-size: 0.8rem;
+    font-weight: 600;
+    background-color: #e9edee;
+    cursor: pointer;
+}
+
+/* HEADER */
+
+.logo{
+    text-align: left;
+    background-color: #222f3f;
+}
+
+.logo img{
+    height: 3rem;
+    width: auto;
+    padding: 1rem;
+}
+
+/* NAV */
+nav{
+    background-color: #364758;
+}
+
+nav li{
+    padding: 0.5rem;
+    display: inline;
+}
+
+nav ul{
+    padding: 0.5rem;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+/* MAIN */
+
+/* SEZIONE 1 */
+
+.sec1 h1{
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+
+.sec1 p{
+    font-size: 1rem;
+}
+.sec1 .hgg p{
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.link{
+    text-align: center;
+    background-color:#f36600 ;
+    color: white;
+    padding: 0.5rem;
+    margin: 1rem;
+    
+}
+
+.hgg{
+    color: white;
+    background-image: url('../images/bg-image.png');
+    text-align: center;
+    width: auto;
+    height: 10rem;
+    padding: 3rem 2rem 1rem 2rem;
+    margin:1rem;
+}
+
+/* SEZIONE 2 */
+
+.sec2{
+    margin:1rem;
+    padding: 1rem;
+    background-color: white;
+    text-align: center;
+    
+}
+
+.sec2 button{
+    background-color: white;
+}
+.sec2 p{
+    text-align: left;
+    font-weight: bold;
+}
+.schede{
+    display: inline-block;
+    text-align: center;
+}
+
+.sec2 img{
+    height: 100%;
+}
+
+
+.scheda{
+    
+    display: inline-block;
+    height: 20em;
+    width: 16em;
+    overflow: hidden;
+    border-radius: 1rem;
+    margin: 1rem;
+    box-shadow: 0.5rem 0.5rem 1rem rgb(168, 168, 168);
+}
+/* SEZIONE 3 */
+
+.sec3{
+    
+    margin: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: #131416;
+}
+
+.sec3 img{
+    width: 100%; 
+    max-width: 100%; 
+    height: auto;
+}
+
+.sec3 div{
+    width: auto;
+}
+
+.sec3 p{
+    padding: 0.2rem 1rem 1rem 1rem;
+}
+
+/* SEZIONE 4 */
+
+.sec4{
+    
+    margin: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: #131416;
+}
+
+.sec4 img{
+    width: 100%; 
+    max-width: 100%; 
+    height: auto;
+}
+
+.sec4 div{
+    width: auto;
+}
+
+.sec4 p{
+    padding: 0.2rem 1rem 1rem 1rem;
+}
+
+/* FOOTER */
+
+footer{
+    text-align: center;
+    background-color: #222f3f;
+    height: 11rem;
+}
+
+footer div{
+    padding: 1rem;
+}
+.back{
+    background-color: #364758;
+}
+.back a{
+    color: white;
+    font-weight: 600;
+}
+footer img{
+    height: 3rem;
+    width: auto;
+    padding: 1rem;
+}
